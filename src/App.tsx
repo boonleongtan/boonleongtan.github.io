@@ -12,7 +12,11 @@ function App() {
                 <div>
                     <h1>Tan Boon Leong</h1>
                     <div className="flex items-center gap-2">
-                        <a href="https://www.linkedin.com/in/tanboonleong">
+                        <a
+                            href="https://www.linkedin.com/in/tanboonleong"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
                             <FaLinkedin size={30} />
                         </a>
                         <p>NUS CEG Year 2</p>
